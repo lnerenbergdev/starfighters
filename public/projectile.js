@@ -1,8 +1,8 @@
-function Projectile(x,y,heading) {
-  this.x = x;
-  this.y = y;
-  this.vel = 1;
-  this.heading = heading;
+function Projectile(originState) {
+  this.x = originState.x;
+  this.y = originState.y;
+  this.vel = originState.vel;
+  this.heading = originState.heading;
 
   this.move = function() {
     
@@ -22,6 +22,7 @@ function Projectile(x,y,heading) {
   	var state = {
   		x: this.x,
   		y: this.y,
+      vel: this.vel,
   		heading: this.heading
   	};
 
@@ -32,6 +33,7 @@ function Projectile(x,y,heading) {
   	console.log(state);
   	this.x = state.x;
   	this.y = state.y;
+    this.vel = state.vel;
   	this.heading = state.heading;
   }
 

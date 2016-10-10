@@ -1,4 +1,4 @@
-function Ship() {
+function Ship(id) {
   this.x = random(width);
   this.y = random(height);
   this.vel = 0;
@@ -12,10 +12,14 @@ function Ship() {
   this.turningLeft = false;
   this.turningRight = false;
 
-  this.id = 0;
+  this.id = id;
 
-  this.move = function() {
-   
+  this.move = function(bodie) {
+
+    for(var bodie of bodies){
+
+    }
+
     if(this.turningLeft){
       this.heading += 0.1;
     } 
@@ -23,6 +27,8 @@ function Ship() {
     if(this.turningRight){
       this.heading -= 0.1;
     }
+    
+    
     
     this.vel += this.acc; 
     
@@ -66,11 +72,10 @@ function Ship() {
     }
   };
 
-
-
   this.setState = function(state){
   	this.x = state.x;
   	this.y = state.y;
+    this.vel = state.vel,
   	this.heading = state.heading;
   };
 
@@ -79,6 +84,7 @@ function Ship() {
   		id: this.id,
   		x: this.x,
   		y: this.y,
+      vel: this.vel,
   		heading: this.heading
   	};
 

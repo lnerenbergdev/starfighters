@@ -1,0 +1,998 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"description-text"
+			],
+			[
+				"get",
+				"getDemoCode"
+			],
+			[
+				"demo",
+				"demoCode"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"dem",
+				"demoElement"
+			],
+			[
+				"de",
+				"demoCode"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"demo-",
+				"demo-input-container"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-spacing"
+			],
+			[
+				"inp",
+				"input	Tag"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pet",
+				"petHTML"
+			],
+			[
+				"met",
+				"meta	Tag"
+			],
+			[
+				"sent",
+				"sentenceArray"
+			],
+			[
+				"sen",
+				"sentenceArray"
+			],
+			[
+				"word",
+				"wordCount"
+			],
+			[
+				"getWord",
+				"getWordCount"
+			],
+			[
+				"wo",
+				"wordCount"
+			],
+			[
+				"getWro",
+				"getWordAt"
+			],
+			[
+				"words",
+				"wordsArray"
+			],
+			[
+				"lett",
+				"letterCount"
+			],
+			[
+				"gho",
+				"ghostPaddle"
+			],
+			[
+				"g",
+				"ghost"
+			],
+			[
+				"paren",
+				"parentBrains"
+			],
+			[
+				"par",
+				"parents"
+			],
+			[
+				"br",
+				"brainsFitness"
+			],
+			[
+				"brains",
+				"brainsFitness"
+			],
+			[
+				"fitness",
+				"fitnessSum"
+			],
+			[
+				"fit",
+				"fitnessSum"
+			],
+			[
+				"key",
+				"keysColumn"
+			],
+			[
+				"station",
+				"stationName"
+			],
+			[
+				"train",
+				"trainedBrains"
+			],
+			[
+				"tra",
+				"trainedBrains"
+			],
+			[
+				"most",
+				"mostActiveUser"
+			],
+			[
+				"ints",
+				"instancesContainer"
+			],
+			[
+				"in",
+				"instances"
+			],
+			[
+				"wei",
+				"parentWeights"
+			],
+			[
+				"mo",
+				"movieId"
+			],
+			[
+				"time",
+				"timesOut"
+			],
+			[
+				"ti",
+				"timesOut"
+			],
+			[
+				"c",
+				"checkouts"
+			],
+			[
+				"s",
+				"sameNumOfInstances"
+			],
+			[
+				"translatedWord",
+				"translatedWords"
+			],
+			[
+				"tran",
+				"translatedWords"
+			],
+			[
+				"tr",
+				"translatedWord"
+			],
+			[
+				"translatedWor",
+				"translatedWords"
+			],
+			[
+				"trans",
+				"translated"
+			],
+			[
+				"p",
+				"phrase"
+			],
+			[
+				"re",
+				"returns"
+			],
+			[
+				"new",
+				"newNumber"
+			],
+			[
+				"do",
+				"doStuffInstuff"
+			],
+			[
+				"brain",
+				"brainsFitness"
+			],
+			[
+				"test",
+				"testInput"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"parent",
+				"parentWeights"
+			],
+			[
+				"mostFit",
+				"mostFitIndex"
+			],
+			[
+				"Train",
+				"TrainPaddle"
+			],
+			[
+				"Trai",
+				"TrainPaddle"
+			],
+			[
+				"i",
+				"inputs"
+			],
+			[
+				"Tra",
+				"TrainPaddle"
+			],
+			[
+				"ini",
+				"init"
+			],
+			[
+				"T",
+				"TrainPaddle"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ne",
+				"neurons"
+			],
+			[
+				"init",
+				"initBrain"
+			],
+			[
+				"W",
+				"Width"
+			],
+			[
+				"Width",
+				"Width-20"
+			],
+			[
+				"N",
+				"NEURAL"
+			],
+			[
+				"w",
+				"weights"
+			],
+			[
+				"hidd",
+				"hiddenOut"
+			],
+			[
+				"input",
+				"inputsLength"
+			],
+			[
+				"acti",
+				"activate"
+			],
+			[
+				"Ne",
+				"Nueron"
+			],
+			[
+				"right",
+				"right_paddle"
+			],
+			[
+				"PL",
+				"PlayerScore"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"pro",
+				"projectiles"
+			],
+			[
+				"pr",
+				"projectiles"
+			],
+			[
+				"proj",
+				"projectiles"
+			],
+			[
+				"projec",
+				"projectiles"
+			],
+			[
+				"my",
+				"myProjectiles"
+			],
+			[
+				"out",
+				"outOfBounds"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"is",
+				"isAlive"
+			],
+			[
+				"south",
+				"southRoom"
+			],
+			[
+				"so",
+				"southRoom"
+			],
+			[
+				"north",
+				"northRoom"
+			],
+			[
+				"update",
+				"updatePlayers"
+			],
+			[
+				"play",
+				"playerStates"
+			],
+			[
+				"player",
+				"playerCount"
+			],
+			[
+				"tes",
+				"testPlayers"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"even",
+				"evenNumbers"
+			],
+			[
+				"prompt",
+				"promptString"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"anu",
+				"animation-timing-function"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text-ali",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex-al",
+				"text-align"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"boar",
+				"border-spacing"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "function Ship() {\n  this.x = random(width);\n  this.y = random(height);\n  this.vel = 0;\n  this.acc = 0;\n  this.heading = 0;\n  \n  this.size = 10;\n  this.speed = random(1,5);\n  this.Color = color(random(255),random(255),random(255));\n  \n  this.turningLeft = false;\n  this.turningRight = false;\n\n  this.id = 0;\n\n  this.move = function() {\n   \n    if(this.turningLeft){\n      this.heading += 0.1;\n    } \n    \n    if(this.turningRight){\n      this.heading -= 0.1;\n    }\n    \n    this.vel += this.acc; \n    \n    if(this.vel > 5){\n      this.vel = 5;\n    }\n    \n    this.x += cos(this.heading) * this.vel;\n    this.y += sin(this.heading) * this.vel;\n    \n    if(this.y > height){\n      this.y = 0;\n    }\n  };\n  \n  this.turn = function(direction){\n    switch(direction){\n      case 1:\n        this.turningLeft = true;\n        break;\n      case 2:\n        this.turningRight = true;\n        break;\n      case 0:\n        this.turningLeft = false;\n        this.turningRight = false;\n    }\n  };\n  \n  this.thrust = function(direction){\n    switch(direction){\n      case 0:\n        this.acc = 0;\n        break;\n      case 1: \n        this.acc = .1;\n        break;\n      case 2:\n        this.acc = -.1;\n        break;\n    }\n  };\n\n  this.setState = function(state){\n  	this.x = state.x;\n  	this.y = state.y;\n  	this.heading = state.heading;\n  };\n\n  this.getState = function(){\n  	var state = {\n  		id: this.id,\n  		x: this.x,\n  		y: this.y,\n  		heading: this.heading\n  	};\n\n  	return state;\n  };\n\n  this.display = function() {\n    push();\n    translate(this.x, this.y);\n    rotate(this.heading);\n    triangle(this.size, 0, -this.size, -this.size, -this.size, +this.size);\n    fill(this.Color);\n    pop();\n  };\n};",
+			"file": "ship.js",
+			"file_size": 1696,
+			"file_write_time": 131195046890000000,
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sketch.js",
+			"settings":
+			{
+				"buffer_size": 4013,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/public/libraries"
+	],
+	"file_history":
+	[
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/jquery-presentation-append/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Boot Strap Exercise/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/model-view-controller-intro/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/point-of-sales/index.html",
+		"/Users/DevEnv/Documents/Workspace/codecraft/pong/index.html",
+		"/Users/DevEnv/Documents/Workspace/Shopify-Carousel-master/slideshow-settings.html",
+		"/Users/DevEnv/Documents/Workspace/codecraft/pong/train.js",
+		"/Users/DevEnv/Documents/Workspace/codecraft/pong/brain.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/public/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Movies-exercise/index.html",
+		"/Users/DevEnv/Documents/Workspace/codecraft/pong/pong.js",
+		"/Users/DevEnv/Documents/Workspace/codecraft/pong/neuron.js",
+		"/Users/DevEnv/Documents/Workspace/codecraft/pong/nueron.js",
+		"/Users/DevEnv/Documents/Workspace/codecraft/algorithms-functions-exercise/problem7-solved.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/problem6-solved.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/problem5-solved.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/problem4-solved.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/problem3-solved.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/problem2-solved.js",
+		"/Users/DevEnv/Documents/Workspace/codecraft/algorithms-functions-exercise/problem1-solved.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/index.html",
+		"/Users/DevEnv/Documents/Workspace/codecraft/algorithms-functions-exercise/problems.txt",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/algorithms-functions-exercise/problem7-solved",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/train.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/visualcortex.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/neuron.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/brain.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/ball.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/paddle.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/pong.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/ajax-examples/ajax-jquery.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/ajax-sandbox/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Javascript Test/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/pong/pong.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Node/public/ship.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/public/sketch.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/public/projectile.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/public/ship.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/server.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/node/package.json",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/Algorithms.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/algorithm-practice-6.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/algorithm-practice-5.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/algorithm-practice-4.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/algorithm-practice-3.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/algorithm-practice-2.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/basic-functions/exercise_5.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/basic-functions/exercise_4.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/basic-functions/exercise_3.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/basic-functions/exercise_2.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/basic-functions/exercise_1.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Algorithms_Practice/algorithm-practice-1.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Node/server.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Node/helloworld.js",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/data-types-exercise/exercise_5.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/data-types-exercise/exercise_4.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/data-types-exercise/exercise_3.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/data-types-exercise/exercise_2.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/data-types-exercise/exercise_1.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/simple-array-loop-practice/practice-3.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/flow-exercises/exercise_three.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/simple-array-loop-practice/practice-2.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/simple-array-loop-practice/practice-1.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/flow-exercises/exercise_four.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/flow-exercises/exercise_two.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/flow-exercises/exercise_one.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/JavaScript_intro/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Bongo/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/iframe_demo/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_1/HTML_Exercise/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_4/flexExercise/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_5/exercise-2.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_5/exercise-1.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_3/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_5/exercise-4.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_5/exercise-3.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_4/float-example/blocks.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_4/float-example/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_4/Blocks/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_4/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_3/main.css",
+		"/Users/DevEnv/Documents/WorkSpace/HTML_Exercise/helloworld.html",
+		"/Users/DevEnv/Documents/WorkSpace/CSS/Project 1/main.css",
+		"/Users/DevEnv/Documents/WorkSpace/HTML_Exercise/css/main.css",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_2/CSS/block-inline/style.css",
+		"/Users/DevEnv/Documents/WorkSpace/CSS/block-inline/style.css",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise_2/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise 3/main.css",
+		"/Users/DevEnv/Documents/WorkSpace/CodeCraft/Exercise 3/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/HTML_Exercise/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/CSS/Project 1/index.html",
+		"/Users/DevEnv/Documents/WorkSpace/HTML_Exercise/main.css",
+		"/Users/DevEnv/.Trash/happyCat.gif",
+		"/Users/DevEnv/.Trash/sadCat.gif",
+		"/Users/DevEnv/Documents/WorkSpace/HTML Exercise/index.html",
+		"/Users/DevEnv/Documents/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"democo",
+			"table",
+			"vel",
+			"xVel",
+			"set",
+			" fit",
+			"fit",
+			"fitness",
+			"fit",
+			"KEY",
+			" Train",
+			"Train",
+			"math.random",
+			"math.random()",
+			"math.random",
+			"activate",
+			"new brain",
+			"new ",
+			"new",
+			"new Brain",
+			"console.log",
+			" Train",
+			"Train",
+			"activate",
+			"actival",
+			"Key",
+			"console.log",
+			"activate",
+			"activa",
+			"console",
+			"consol",
+			"consol.log",
+			"activate",
+			"Train",
+			"activat",
+			"Train",
+			"fitness",
+			"1",
+			"sum",
+			"activate",
+			"activat",
+			"fitness",
+			"activa",
+			"math.rand",
+			"fitn",
+			"test",
+			"testTr",
+			"test",
+			"secound ",
+			"test",
+			"Train",
+			"Train\n",
+			"Train",
+			"cross",
+			"Paddle",
+			"Padd",
+			"consol",
+			"console",
+			"getTra",
+			"record",
+			"re ",
+			"re",
+			"release",
+			"Paddle",
+			"key",
+			"paddle",
+			"Paddle",
+			"console.",
+			"10",
+			"* 10",
+			"train",
+			"paddle",
+			"AUTO",
+			"auto",
+			"activate",
+			"train",
+			"feedforward",
+			"console.log",
+			"trainP",
+			"Train",
+			"prevY",
+			"paddle",
+			"reset",
+			"ball",
+			"right_paddle",
+			"Brain",
+			"Brain(5,5)",
+			"ball",
+			"neural",
+			"recetmode",
+			"init",
+			"if",
+			"initi",
+			"reset",
+			"paddle",
+			"getVel",
+			"activate",
+			"activat",
+			"init",
+			"paddle",
+			"padd;e",
+			"Paddle",
+			"paddle",
+			"[add;e",
+			"move",
+			"paddle",
+			"training",
+			"new brain",
+			"Train",
+			"train",
+			"activation",
+			"o.5",
+			"395",
+			"}\n",
+			"console.log",
+			"console.",
+			"vel",
+			"this.heading",
+			"push",
+			"}\n",
+			"testPlayers",
+			"setState",
+			"state",
+			"set",
+			"container",
+			"updatePro",
+			"update",
+			"setstate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Initialize",
+			".png",
+			"$139.99",
+			"btn-default\n",
+			">btn-default\n",
+			">\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ship.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1211,
+								1211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sketch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3519,
+								3519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2222.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "starfighters.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
