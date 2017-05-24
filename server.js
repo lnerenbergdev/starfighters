@@ -18,7 +18,7 @@ function State() {
 }
 
 var playerStates = {};
-var projectileStates = [];
+var projectileStates = {};
 var playerIDs = [];
 
 // This call back just tells us that the server has started
@@ -30,29 +30,26 @@ function listen() {
 
 app.use(express.static('public'));
 
-
 // WebSocket Portion
 // WebSockets work with the HTTP server
 var io = require('socket.io')(server);
 var now = new Date();
 
 var playerCount = 0;
+var projectileCount = 0;
 // Register a callback function to run when we have an individual connection
 // This is run for each individual user that connects
 io.sockets.on('connection',
   // We are given a websocket object in our function
   function (socket) {
     
-
     console.log("We have a new client: " + socket.id);
     
     socket.on('initialize',
     	function(){
-    		
     		io.to(socket.id).emit('init', socket.id);
         io.to(socket.id).emit('update', playerStates, projectileStates);
-    	}
-    );
+    });
 
     // Client side: socket.emit('event', data);
     // Secound argument is executed function
@@ -62,12 +59,10 @@ io.sockets.on('connection',
 
       //console.log(playerState);
 
-
    		socket.broadcast.emit('update', playerStates, projectileStates);
         // To send to everyone including sender use:
         // io.sockets.emit('message', "this goes to everyone");
-      }
-    );
+    });
 
     socket.on('disconnect', function() {
       playerCount--;
@@ -77,16 +72,17 @@ io.sockets.on('connection',
       }    
     });
 
-
     socket.on('fire', function(playerState){
+      projectileCount ++;
+
       var projectileState = {
-        x: playerState.x,
-        y: playerState.y,
+        x: playerState.location.x,
+        y: playerState.location.y,
         vel: 5,
         heading: playerState.heading
       }
    
-      projectileStates.push(projectileState);
+      projectileStates[projectileCount] = projectileState;
     });
   }
 );
@@ -94,15 +90,26 @@ io.sockets.on('connection',
 var INTERVAL = 30;
 
 function mainLoop(){
+  var outOfBounds = [];
+
   for(var i in projectileStates){
     projectileStates[i].x += Math.cos(projectileStates[i].heading) * projectileStates[i].vel;
     projectileStates[i].y += Math.sin(projectileStates[i].heading) * projectileStates[i].vel;
+
+    if(projectileStates[i].x >= 700 || projectileStates[i].y >= 700 || projectileStates[i].x <= 0 || projectileStates[i].y <= 0){
+      outOfBounds.push(i);
+    }
   }
+
+  for(var index of outOfBounds){
+    delete projectileStates[index];
+  }
+
+  io.sockets.emit('update', playerStates, projectileStates);
 }
 
 setInterval(function(){
   mainLoop();
-
 }, INTERVAL);
 
 
